@@ -1,0 +1,1 @@
+In CIMtoOpenDSS change the variable filename to the corresponding xml file to parse before running the code.
